@@ -1,0 +1,4 @@
+vue-cli，webpack打包
+图标字体制作，网址：icomoon.io
+添加谷歌插件jsonview，在mock数据时，查看json数据格式化
+import路径前面不加./可以在webpack.base.conf.js中resolve，alias设置
